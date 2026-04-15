@@ -1,5 +1,5 @@
-# Binary
-gitstats
+# Binary at repo root (from `go build`)
+/gitstats
 
 # Go build artifacts
 *.test
